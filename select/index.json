@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ことば",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-01-13T09:18:52.224410Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ことば",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_ことば_SUPER_BEAVER.txt"
+    }
+  ]
+}
